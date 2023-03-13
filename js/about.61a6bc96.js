@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmaxico02"]=self["webpackChunkmaxico02"]||[]).push([[443],{3544:function(n,a,r){r.r(a),r.d(a,{default:function(){return f}});var i=r(3396);const c={class:"about"},u=(0,i._)("h1",null,"Página Principal Tarsicio Carrizales",-1),e=[u];function s(n,a){return(0,i.wg)(),(0,i.iD)("div",c,e)}var t=r(89);const o={},l=(0,t.Z)(o,[["render",s]]);var f=l}}]);
+//# sourceMappingURL=about.61a6bc96.js.map
